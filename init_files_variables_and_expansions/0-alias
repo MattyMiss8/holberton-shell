@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v alias
+alias -p ls
